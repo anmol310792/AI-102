@@ -1,8 +1,8 @@
 # This file will contains the notes for the study material of the ceritification
 
-## $${\color{yellowgreen}Section-1 - GenAI Primers and Fundamentals}$$
+## $${\color{yellowgreen}Section-1 - GenAI \space Primers \space and \space Fundamentals}$$
 
-### $${\color{darkorange}Lecture 1 - The Synergistic Co-existence of Predictive and Generative AI}$$
+### $${\color{darkorange}Lecture 1 - The \space Synergistic \space Co-existence \space of \space Predictive \space and \space Generative \space AI}$$
 #### Definition of AI and ML:
 
 - AI is described as machines performing tasks that typically require human intelligence.
@@ -34,7 +34,7 @@ Emphasizes the necessity of combining both custom-built and pre-built AI models 
 
 
 
-### $${\color{darkorange}Lecture 2 - Introduction to AI Agents and Compound AI Systems}$$
+### $${\color{darkorange}Lecture 2 - Introduction \space to \space AI \space Agents \space and \space Compound \space AI \space Systems}$$
 #### Compund AI Systems:
 Compound AI systems are systems that tackle AI tasks by combining mulitple interacting components. simply put these systems integrate multiple interacting components to automate business processes and workflows. They aim to deliver better returns on investment (ROI) in AI technologies over traditional uses.
 
@@ -56,4 +56,20 @@ An AI agent comprises an LLM, a set of behavioral instructions, and tools for ac
 
 
 
-### $${\color{darkorange}Lecture 3 - Gen AI Jargons: Key Terminologies}$$
+### $${\color{darkorange}Lecture 3 - GenAI \space Jargons: \space Key \space Terminologies}$$
+#### Tokens:
+<img width="1764" height="865" alt="image" src="https://github.com/user-attachments/assets/02ece454-25c7-4b20-9cd3-8e3fc16b509d" />
+
+#### System Prompts and User Prompts:
+<img width="1768" height="841" alt="image" src="https://github.com/user-attachments/assets/1e7f2aed-c712-43d7-9f51-bc8b727855ec" />
+
+#### Chat Completion API:
+<img width="1774" height="875" alt="image" src="https://github.com/user-attachments/assets/f023ede5-9499-498f-9471-0f64e83a138c" />
+
+#### Multi-Modality and Multi-Modal Models:
+<img width="1713" height="893" alt="image" src="https://github.com/user-attachments/assets/f37ef74a-348f-42ae-88ab-05f680018742" />
+
+
+
+
+## $${\color{yellowgreen}Section-2 - GenAI \space Development \space with \space Microsoft \space Foundary}$$
