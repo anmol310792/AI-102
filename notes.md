@@ -92,3 +92,17 @@ Microsoft Foundary is Microsoft's AI ecosystem, it's a platform as a service. It
 Microsoft Foundary has a number of tools that can be leveraged, a few of them as available below -
 
 <img width="1345" height="956" alt="image" src="https://github.com/user-attachments/assets/d23ddcd6-cc36-420c-8db8-52bd075c2afd" />
+
+
+### $${\color{darkorange}Lecture 6 - Difference \space between \space Hub-Based \space Project \space and \space Standalone \space Projects}$$
+#### High level differences:
+<img width="1622" height="1068" alt="image" src="https://github.com/user-attachments/assets/89dfec29-4c12-45be-a00a-abb6e94f48ef" />
+
+<img width="1968" height="906" alt="image" src="https://github.com/user-attachments/assets/726ba37d-9594-4cff-86f0-2cfc961ccea5" />
+
+
+#### Hub based project hierarchy:
+<img width="1837" height="1140" alt="image" src="https://github.com/user-attachments/assets/72b81262-0bb9-48a3-a959-de0374d04fce" />
+<ul>
+  <li>AI Hub is kind of the central project and is at the organization level. Any connections created at the Hub have a trickle down effect on all the project</li>
+  <li>Project are kind of spokes under the AI Hub. Any connections created at the project is only application for the individual project</li>
