@@ -73,3 +73,22 @@ An AI agent comprises an LLM, a set of behavioral instructions, and tools for ac
 
 
 ## $${\color{yellowgreen}Section-2 - GenAI \space Development \space with \space Microsoft \space Foundary}$$
+
+### $${\color{darkorange}Lecture 5 - Introduction \space to \space Microsoft \space Foundary}$$
+#### What is Microsoft Foundary:
+Microsoft Foundary is Microsoft's AI ecosystem, it's a platform as a service. It has a number of components what can be leveraged to build and deploy AI application as below -
+
+<img width="2058" height="1152" alt="image" src="https://github.com/user-attachments/assets/7f5f48f9-5ce5-4c34-a4e6-c4af40317141" />
+
+<ul>
+  <li>Model Catalog: Allows deploying AI models without infrastructure concerns.</li>
+  <li>Agent Service: Facilitates the creation and management of AI agents.</li>
+  <li>Foundry IQ: Integrates enterprise knowledge for better performance.</li>
+  <li>Control Plane: Provides observability by monitoring agent performance.</li>
+  <li>Development Flexibility: Supports both cloud-native and local development of agents.</li>
+  <li>Security and Compliance: Features like agent IDs and integration with Microsoft Purview ensure data protection.</li>
+</ul>
+
+Microsoft Foundary has a number of tools that can be leveraged, a few of them as available below -
+
+<img width="1345" height="956" alt="image" src="https://github.com/user-attachments/assets/d23ddcd6-cc36-420c-8db8-52bd075c2afd" />
