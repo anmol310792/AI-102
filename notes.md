@@ -1,6 +1,6 @@
 # This file will contains the notes for the study material of the ceritification
 
-## $${\color{yellowgreen}Section-1 - GenAI \space Primers \space and \space Fundamentals}$$
+## $${\color{yellowgreen}Section-2 - GenAI \space Primers \space and \space Fundamentals}$$
 
 ### $${\color{darkorange}Lecture 1 - The \space Synergistic \space Co-existence \space of \space Predictive \space and \space Generative \space AI}$$
 #### Definition of AI and ML:
@@ -72,7 +72,7 @@ An AI agent comprises an LLM, a set of behavioral instructions, and tools for ac
 
 
 
-## $${\color{yellowgreen}Section-2 - GenAI \space Development \space with \space Microsoft \space Foundary}$$
+## $${\color{yellowgreen}Section-3 - GenAI \space Development \space with \space Microsoft \space Foundary}$$
 
 ### $${\color{darkorange}Lecture 5 - Introduction \space to \space Microsoft \space Foundary}$$
 #### What is Microsoft Foundary:
@@ -106,3 +106,20 @@ Microsoft Foundary has a number of tools that can be leveraged, a few of them as
 <ul>
   <li>AI Hub is kind of the central project and is at the organization level. Any connections created at the Hub have a trickle down effect on all the project</li>
   <li>Project are kind of spokes under the AI Hub. Any connections created at the project is only application for the individual project</li>
+</ul>
+
+
+### $${\color{darkorange}Lecture 13 - Prompt \space Engineering \space best \space Practises}$$
+#### Build an effective prompt:
+![alt text](./Images/image.png)
+
+
+### $${\color{darkorange}Lecture 14 - Prompt \space Engineering \space Techniques \space CoT, \space Few \space Shot \space etc.}$$
+#### How a typical LLM behaves:
+![alt text](./Images/image-1.png)
+
+#### Zero Shot and Few Shot Prompting:
+![alt text](./Images/image-2.png)
+
+#### Chain of Thought Prompting:
+![alt text](./Images/image-3.png)
