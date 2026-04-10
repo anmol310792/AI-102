@@ -111,9 +111,15 @@ Microsoft Foundary has a number of tools that can be leveraged, a few of them as
 
 ### $${\color{darkorange}Lecture 13 - Prompt \space Engineering \space best \space Practises}$$
 #### Build an effective prompt:
-![alt text](image.png)
+![alt text](./Images/image.png)
 
 
 ### $${\color{darkorange}Lecture 14 - Prompt \space Engineering \space Techniques \space CoT, \space Few \space Shot \space etc.}$$
 #### How a typical LLM behaves:
-![alt text](image-1.png)
+![alt text](./Images/image-1.png)
+
+#### Zero Shot and Few Shot Prompting:
+![alt text](./Images/image-2.png)
+
+#### Chain of Thought Prompting:
+![alt text](./Images/image-3.png)
