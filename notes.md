@@ -115,11 +115,26 @@ Microsoft Foundary has a number of tools that can be leveraged, a few of them as
 
 
 ### $${\color{darkorange}Lecture 14 - Prompt \space Engineering \space Techniques \space CoT, \space Few \space Shot \space etc.}$$
-#### How a typical LLM behaves:
-![alt text](./Images/image-1.png)
 
 #### Zero Shot and Few Shot Prompting:
 ![alt text](./Images/image-2.png)
 
 #### Chain of Thought Prompting:
 ![alt text](./Images/image-3.png)
+
+
+### $${\color{darkorange}Lecture 15 - Introduction \space To \space the \space Microsoft \space Foundary \space SDK}$$
+#### What is Microsoft Foundary SDK:
+![alt text](./Images/image-4.png)
+
+
+### $${\color{darkorange}Lecture 17 - Introduction \space To \space MCP \space Servers}$$
+#### What is MCP (Model COntext Protocol):
+![alt text](./Images/image-5.png)
+
+#### Types of MCP servers:
+Server that run locally (virtually) within you local system are known as local MCP server, e.g., you can refer to the MCP agent for the "Local Filesystem" in the above image.
+![alt text](./Images/image-6.png)
+
+#### Understanding in simple terms:
+![alt text](./Images/image-7.png)
