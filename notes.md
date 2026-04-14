@@ -166,3 +166,77 @@ While A2A serves as an interoperable layer, MCP provides the necessary tools and
 The combined use of A2A and MCP fosters a more functional and collaborative environment for AI agents.
 
 ![alt text](./Images/image-9.png)
+
+
+### $${\color{darkorange}Lecture 21 - Understanding \space Fine-Tuning \space a \space LLM}$$
+#### What is Fine-Tuning:
+<ul><li>The Process of adapting a pre-trained Large Language Model (LLM) using additional data is know as finne-tuning</li></ul>
+
+![alt text](./Images/image-10.png)
+
+##### Do's and Dont's for fine tuning  the LLM model:
+![alt text](./Images/image-11.png)
+
+
+##### Fine-Tuning vs Retrival Augumented Genration (RAG):
+<ul>
+<li>RAG is ment for creating a chat bot or enterprise knowledge, i.e., the knowledges that changes continously.</li>
+<li>Fine-tuning is ment for domain specific narrow tasks.</li>
+</ul>
+
+![alt text](./Images/image-12.png)
+
+#### Summary for FIne-Tuning:
+![alt text](./Images/image-13.png)
+
+
+### $${\color{darkorange}Lecture 23 - Understanding \space AI \space agent \space and \space Red \space Teaming}$$
+#### What is Red Teaming:
+![alt text](./Images/image-14.png)
+
+
+### $${\color{darkorange}Lecture 25 - Introduction \space to \space Microsoft \space Agent \space Framework \space (MAF)}$$
+#### Microsoft Agent Framework (MAF):
+<ul>
+  <li>A framework designed for building AI agents with a focus on interoperability and security.</li>
+</ul>
+
+#### &emsp; Foundational Pillars of MAF:
+<ul>
+  <ul>
+    <li><b>Open Standards Foundation:</b> Ensures interoperability and essential protocol support.</li>
+    <li><b>Pipeline for Research:</b> Combines features from Autogen and Semantic Kernel SDK for R&D.</li>
+    <li><b>Extensibility and Community-Driven Design:</b> The framework is modular and open-source for adaptability.</li>
+    <li><b>Enterprise Readiness:</b>  Built for production with observability, security compliance, and durability.</li>
+  </ul>
+</ul>
+
+![alt text](./Images/image-15.png)
+
+#### The Open Agentic Web:
+<ul>
+  <li><b>Interoperability and Cohesion:</b> Effective communication among agents requires a shared common language and protocols like Model Context Protocol (MCP).</li>
+  <li><b>Complexity and Memory:</b> Agents need memory and reasoning to manage complex tasks and work in multi-agent environments.</li>
+  <li><b>Security and Trust:</b> Agents must establish secure interactions with verifiable identities using standards such as OpenID Connect and JSON Web Tokens.</li>
+  <li><b>Discovery Management:</b> Similar to directories on the web, a catalog for agents is essential for effective discovery and management.</li>
+</ul>
+
+![alt text](./Images/image-16.png)
+
+
+#### Types of Agents:
+<ul>
+  <li><b>Foundry-tied Agents: </b> Integrated with Microsoft Foundry for improved identity management.</li>
+  <li><b>Standalone Agents: </b> Operate independently, without cloud integration.</li>
+</ul>
+
+![alt text](./Images/image-17.png)
+
+
+#### Agent Execution Process:
+User queries are processed through a loop involving large language models and tools to fulfill user intents effectively.
+
+![alt text](./Images/image-18.png)
+
+#### Workflow Building Capabilities:
+Illustrates how agents can execute tasks in parallel, sequentially, or conditionally.
