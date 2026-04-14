@@ -138,3 +138,31 @@ Server that run locally (virtually) within you local system are known as local M
 
 #### Understanding in simple terms:
 ![alt text](./Images/image-7.png)
+
+
+### $${\color{darkorange}Lecture 20 - Introduction \space To \space A2A \space (Agent-to-Agent) \space Protcol}$$
+#### A2A Protocol:
+<ul>
+  <li>A2A enables Agent to talk to other agents,  not just API's or tools</li>
+  <li>A standardized protocol that allows AI agents to communicate seamlessly, regardless of their underlying frameworks.</li>
+</ul>
+
+![alt text](./Images/image-8.png)
+
+#### Client and Remote Agents:
+<ul>
+  <li>Client Agent: A personal assistant that delegates tasks to other agents.</li>
+  <li>Remote Agent: An agent that receives and executes tasks delegated by the client agent (e.g., an Airbnb agent).</li>
+</ul>
+
+#### Communication Evaluation:
+A2A enables agents to evaluate requests and responses based on their specific capabilities and policies, ensuring effective interaction.
+
+
+#### Model Context Protocol (MCP):
+While A2A serves as an interoperable layer, MCP provides the necessary tools and plugins for agents. A2A works in conjunction with MCP rather than replacing it.
+
+#### Open Interoperable Agent Ecosystem:
+The combined use of A2A and MCP fosters a more functional and collaborative environment for AI agents.
+
+![alt text](./Images/image-9.png)
