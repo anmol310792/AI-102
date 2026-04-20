@@ -240,3 +240,26 @@ User queries are processed through a loop involving large language models and to
 
 #### Workflow Building Capabilities:
 Illustrates how agents can execute tasks in parallel, sequentially, or conditionally.
+
+
+
+### $${\color{darkorange}Lecture 31 - Introduction \space to \space Microsoft \space Prompt \space Flow }$$
+#### Microsoft Prompt Flow
+Microsoft Prompt Flow, a tool aimed at streamlining the development cycle for AI applications using large language models. 
+
+![alt text](./Images/image-19.png)
+<ul>
+  <li>Prompt Flow serves as a generative AI microservice for both low-code developers and business users to prototype solutions, requiring only a basic understanding of Python.</li>
+  <li>Execution logic in Prompt Flow must be written in Python, as it operates exclusively within a Python runtime. However, the microservice can be accessed via APIs in any language that supports HTTP client libraries.</li>
+  <li>Prompt Flow simplifies prototyping, experimenting, iterating, and deploying AI applications through its comprehensive ecosystem. Users can visualize their microservice's functionality graphically, aiding error identification and debugging.</li>
+  <li>The tool supports both pre-deployment and post-deployment evaluations, allowing developers to assess user interactions and performance before and after deployment.</li>
+  <li>The quality of prompts significantly influences application performance.</li>
+  &emsp; Two main components of Prompt Flow:
+  <ul>
+    <li>The prompt component for instructing the large language model</li>
+    <li>The Python component for custom logic and API calls.</li>
+  </ul>
+  <li>Prompt Flow is scalable and can integrate generative AI capabilities into both legacy and modern applications through API consumption.</li>
+</ul>
+
+![alt text](./Images/image-20.png)
