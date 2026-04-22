@@ -263,3 +263,81 @@ Microsoft Prompt Flow, a tool aimed at streamlining the development cycle for AI
 </ul>
 
 ![alt text](./Images/image-20.png)
+
+
+
+
+## $${\color{yellowgreen}Section-4 - GenAI \space Developement \space with \space Azure \space OpenAI}$$
+
+
+## $${\color{yellowgreen}Section-5 - Develop \space Natural \space Language \space Solutions \space in \space Azure}$$
+
+### $${\color{darkorange}Lecture 38 - Introduction \space to \space Natural \space Language \space Services \space Capablities}$$
+The Azure Language Service capabilities focus on two primary utilization methods: 
+1. Pre-configured Features:
+<ul>
+  <ul>
+    <li><b>Language Detection:</b> Identifies the language of a given text.</li>
+    <li><b>Key Phrase Extraction:</b> Extracts essential phrases from the text.</li>
+    <li><b>Sentiment Analysis:</b> Analyzes the sentiment expressed in the text.</li>
+    <li><b>Named Entity Recognition (NER):</b> Identifies keywords and their associated entities, such as people and locations.</li>
+    <li><b>Entity Linking:</b> Establishes relationships between recognized entities and provides sources for further information (e.g., Wikipedia).</li>
+    <li><b>Summarization Tools:</b> Provides summaries of text, though less effective than large models like GPT.</li>
+    <li><b>Detection of Personally Identifiable Information (PII):</b> Redacts sensitive data to ensure compliance with regulations like GDPR and HIPAA.</li>
+  </ul>
+</ul>
+2. Custom Solutions:
+<ul>
+  <ul>
+    <li>Users can create custom models for NER, develop Q&A systems, and implement conversational language understanding to interpret user intent.</li>
+  </ul>
+</ul>
+3. Accessing the Azure Language Service:
+<ul>
+  <ul>
+    <li>Deploying a Microsoft Foundry Hub for an AI multi-service account.</li>
+    <li>Provisioning the service separately in the Azure portal.</li>
+  </ul>
+</ul>
+
+
+### $${\color{darkorange}Lecture 40 - Conversation \space Language \space Understanding \space (CLU)}$$
+<ul>
+  <li><b>Concept of CLU:</b> A CLU solution determines the user's intent behind queries to route requests effectively.</li>
+  <li><b>Flow of a CLU Model:</b> Natural language input is processed to derive meaning through a tailored language model.</li>
+  <li><b>Key Components:</b></li>
+  <ul>
+    <li><b>Natural Language Processing (NLP):</b> Breaks down user input into tokens.</li>
+    <li><b>Natural Language Understanding (NLU):</b> Interprets these tokens to identify the intent behind the query.</li>
+    <li><b>See Image 21.</b></li>
+  </ul>
+  <li><b>Utterances:</b> Phrases that correspond to specific intents (e.g., "What time is it?" relates to the intent "get time").</li>
+  <li><b>See Image 22.</b></li>
+  <li><b>Entities:</b> Key phrases that provide context, which can be classified into:</li>
+  <ul>
+    <li><b>Learned Entities:</b> Trained through various examples.</li>
+    <li><b>List Entities:</b> Contain a fixed set of values (e.g., days of the week).</li>
+    <li><b>Prebuilt Entities:</b> Recognized by the model without extra training (e.g., email addresses).</li>
+    <li><b>See Image 23.</b></li>
+  </ul>
+</ul>
+
+<p align="center">
+  <img src="./Images/image-21.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-21</b></em>
+</p>
+
+<p align="center">
+  <img src="./Images/image-22.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-22</b></em>
+</p>
+
+<p align="center">
+  <img src="./Images/image-23.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-23</b></em>
+</p>
+
+
