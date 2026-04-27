@@ -341,3 +341,37 @@ The Azure Language Service capabilities focus on two primary utilization methods
 </p>
 
 
+### $${\color{darkorange}Lecture 42 - Question \space and \space Answer \space Solutions \space with \space Azure \space Language \space Services}$$
+#### Q&A vs Language Understanding
+
+<p align="center">
+  <img src="./Images/image-24.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-24</b></em>
+</p>
+
+
+### $${\color{darkorange}Lecture 46 - Introduction \space to \space Custom \space Classification \space Models}$$
+#### Types of Classification Models
+
+<p align="center">
+  <img src="./Images/image-25.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-25</b></em>
+</p>
+
+#### Model Development Lifecycle
+
+<p align="center">
+  <img src="./Images/image-26.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-26</b></em>
+</p>
+
+#### Model Eval Metrics
+
+<p align="center">
+  <img src="./Images/image-27.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-27</b></em>
+</p>
