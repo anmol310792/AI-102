@@ -375,3 +375,53 @@ The Azure Language Service capabilities focus on two primary utilization methods
   <br>
   <em><b>IMAGE-27</b></em>
 </p>
+
+
+
+### $${\color{darkorange}Lecture 51 - Introduction \space to \space Azure \space Translator \space Service}$$
+#### Azure Translator Service Capabilities:
+
+<p align="center">
+  <img src="./Images/image-28.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-28</b></em>
+</p>
+
+#### Custom Translation Service:
+<p align="center">
+  <img src="./Images/image-29.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-29</b></em>
+</p>
+
+
+
+### $${\color{darkorange}Lecture 54 - Introduction \space to \space Azure \space Speech \space Service}$$
+#### Azure Speech Service Capabilities:
+
+<p align="center">
+  <img src="./Images/image-30.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-30</b></em>
+</p>
+
+#### Speech to Text API workflow:
+<p align="center">
+  <img src="./Images/image-31.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-31</b></em>
+</p>
+
+#### Text to Speech API workflow:
+<p align="center">
+  <img src="./Images/image-32.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-32</b></em>
+</p>
+
+#### Speech Synthesis Markup Language:
+<p align="center">
+  <img src="./Images/image-33.png#center" alt="IMAGE_DESCRIPTION">
+  <br>
+  <em><b>IMAGE-33</b></em>
+</p>
